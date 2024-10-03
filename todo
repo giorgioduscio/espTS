@@ -1,0 +1,4 @@
+npm init -y
+npm i --safe-dev typescript
+npx tsc --init
+tsconfig.json (module: ES6, rootDir, outDir)
